@@ -3,7 +3,7 @@
 A clean and professional personal portfolio website built to showcase my projects, skills, and experience as an aspiring Data Analyst.
 
 ## 🔗 Live Demo
-[zainabh00.github.io/Personal-portfolio-website](https://zainabh00.github.io/Personal-portfolio-website)
+[zainabh00.github.io/Personal-portfolio-website](https://zainabh00.github.io/portfolio)
 
 ---
 
